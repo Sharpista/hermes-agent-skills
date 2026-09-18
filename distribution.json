@@ -21,7 +21,9 @@
       "/home/alexandre/.hermes/shared/agent-skills/hermes-systematic-debugging",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-tdd",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-incident-response",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-deploy-checklist"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-deploy-checklist",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-design-system",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-ui-loop"
     ],
     "dev-database": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -93,7 +95,10 @@
       "/home/alexandre/.hermes/shared/agent-skills/hermes-verification-gate",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-systematic-debugging",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-tdd",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-architecture-review"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-architecture-review",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-design-system",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-ui-brief",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-ui-loop"
     ],
     "code-reviewer": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -113,7 +118,10 @@
       "/home/alexandre/.hermes/shared/agent-skills/hermes-verification-gate",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-systematic-debugging",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-tdd",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-architecture-review"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-architecture-review",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-design-system",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-ui-brief",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-ui-loop"
     ],
     "orquestrador": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -128,7 +136,8 @@
       "/home/alexandre/.hermes/shared/agent-skills/hermes-systematic-debugging",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-architecture-review",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-incident-response",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-deploy-checklist"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-deploy-checklist",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-ui-brief"
     ]
   },
   "legacy_paths": {
