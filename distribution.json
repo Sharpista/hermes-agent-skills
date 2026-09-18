@@ -1,0 +1,64 @@
+{
+  "profiles": {
+    "qualidade": [
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
+      "/home/alexandre/.hermes/shared/agent-skills/dotnet-xunit-testing",
+      "/home/alexandre/.hermes/shared/agent-skills/angular-testbed-testing",
+      "/home/alexandre/.hermes/shared/agent-skills/dotnet-postgres-integration-qa",
+      "/home/alexandre/.hermes/shared/agent-skills/dotnet-database-runtime-validation",
+      "/home/alexandre/.hermes/shared/agent-skills/dotnet-backend-verification",
+      "/home/alexandre/.hermes/shared/agent-skills/qa-environment-validation",
+      "/home/alexandre/.hermes/shared/agent-skills/browser-functional-testing",
+      "/home/alexandre/.hermes/shared/agent-skills/application-auth-review"
+    ],
+    "dev-database": [
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
+      "/home/alexandre/.hermes/shared/agent-skills/dev-database",
+      "/home/alexandre/.hermes/shared/agent-skills/dotnet-postgres-integration-qa",
+      "/home/alexandre/.hermes/shared/agent-skills/dotnet-database-runtime-validation",
+      "/home/alexandre/.hermes/shared/agent-skills/qa-environment-validation"
+    ],
+    "devops": [
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff"
+    ],
+    "github-profile": [
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff"
+    ],
+    "dev-backend": [
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
+      "/home/alexandre/.hermes/shared/agent-skills/dotnet-xunit-testing",
+      "/home/alexandre/.hermes/shared/agent-skills/dotnet-postgres-integration-qa",
+      "/home/alexandre/.hermes/shared/agent-skills/dotnet-database-runtime-validation",
+      "/home/alexandre/.hermes/shared/agent-skills/dotnet-backend-verification",
+      "/home/alexandre/.hermes/shared/agent-skills/application-auth-review"
+    ],
+    "dev-frontend": [
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
+      "/home/alexandre/.hermes/shared/agent-skills/angular-testbed-testing",
+      "/home/alexandre/.hermes/shared/agent-skills/browser-functional-testing"
+    ],
+    "code-reviewer": [
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
+      "/home/alexandre/.hermes/shared/agent-skills/dotnet-xunit-testing",
+      "/home/alexandre/.hermes/shared/agent-skills/angular-testbed-testing",
+      "/home/alexandre/.hermes/shared/agent-skills/dotnet-backend-verification",
+      "/home/alexandre/.hermes/shared/agent-skills/application-auth-review",
+      "/home/alexandre/.hermes/shared/agent-skills/frontend-delivery-code-review"
+    ],
+    "orquestrador": [
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff"
+    ]
+  },
+  "legacy_paths": {
+    "/home/alexandre/.hermes/profiles/orquestrador/skills/dotnet-xunit-testing": "/home/alexandre/.hermes/shared/agent-skills/dotnet-xunit-testing",
+    "/home/alexandre/.hermes/profiles/orquestrador/skills/angular-testbed-testing": "/home/alexandre/.hermes/shared/agent-skills/angular-testbed-testing",
+    "/home/alexandre/.hermes/profiles/orquestrador/skills/orquestrador-de-tarefas/dev-database": "/home/alexandre/.hermes/shared/agent-skills/dev-database",
+    "/home/alexandre/.hermes/profiles/orquestrador/skills/software-development/dotnet-postgres-integration-qa": "/home/alexandre/.hermes/shared/agent-skills/dotnet-postgres-integration-qa",
+    "/home/alexandre/.hermes/profiles/orquestrador/skills/software-development/dotnet-database-runtime-validation": "/home/alexandre/.hermes/shared/agent-skills/dotnet-database-runtime-validation",
+    "/home/alexandre/.hermes/profiles/orquestrador/skills/software-development/dotnet-backend-verification": "/home/alexandre/.hermes/shared/agent-skills/dotnet-backend-verification",
+    "/home/alexandre/.hermes/profiles/orquestrador/skills/software-development/qa-environment-validation": "/home/alexandre/.hermes/shared/agent-skills/qa-environment-validation",
+    "/home/alexandre/.hermes/profiles/orquestrador/skills/software-development/browser-functional-testing": "/home/alexandre/.hermes/shared/agent-skills/browser-functional-testing",
+    "/home/alexandre/.hermes/profiles/orquestrador/skills/software-development/application-auth-review": "/home/alexandre/.hermes/shared/agent-skills/application-auth-review",
+    "/home/alexandre/.hermes/profiles/orquestrador/skills/software-development/frontend-delivery-code-review": "/home/alexandre/.hermes/shared/agent-skills/frontend-delivery-code-review"
+  }
+}
