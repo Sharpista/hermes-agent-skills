@@ -15,7 +15,8 @@
       "/home/alexandre/.hermes/shared/agent-skills/security-audit",
       "/home/alexandre/.hermes/shared/agent-skills/codemap",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-webapp-testing",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-skill-eval"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-skill-eval",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-frontend-design"
     ],
     "dev-database": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -65,7 +66,8 @@
       "/home/alexandre/.hermes/shared/agent-skills/loop-engineering",
       "/home/alexandre/.hermes/shared/agent-skills/security-audit",
       "/home/alexandre/.hermes/shared/agent-skills/codemap",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-webapp-testing"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-webapp-testing",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-frontend-design"
     ],
     "code-reviewer": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -80,7 +82,8 @@
       "/home/alexandre/.hermes/shared/agent-skills/codemap",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-webapp-testing",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-mcp-builder",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-skill-eval"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-skill-eval",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-frontend-design"
     ],
     "orquestrador": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
