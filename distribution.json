@@ -32,7 +32,10 @@
       "/home/alexandre/.hermes/shared/agent-skills/hermes-discipline",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-anneal",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-bugbash",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-skill-improvement"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-skill-improvement",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-user-stories",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-test-scenarios",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-red-team-prd"
     ],
     "dev-database": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -105,7 +108,9 @@
       "/home/alexandre/.hermes/shared/agent-skills/hermes-agent-usability",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-audit-context",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-discipline",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-anneal"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-anneal",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-user-stories",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-test-scenarios"
     ],
     "dev-frontend": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -128,7 +133,9 @@
       "/home/alexandre/.hermes/shared/agent-skills/hermes-accessibility-audit",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-discipline",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-anneal",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-bugbash"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-bugbash",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-user-stories",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-test-scenarios"
     ],
     "code-reviewer": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -160,7 +167,10 @@
       "/home/alexandre/.hermes/shared/agent-skills/hermes-discipline",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-anneal",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-bugbash",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-skill-improvement"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-skill-improvement",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-prd",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-red-team-prd",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-test-scenarios"
     ],
     "orquestrador": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -184,7 +194,14 @@
       "/home/alexandre/.hermes/shared/agent-skills/hermes-continual-learning",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-discipline",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-workflow-graph",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-skill-improvement"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-skill-improvement",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-product-discovery",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-assumption-mapping",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-prd",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-prioritization",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-red-team-prd",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-user-stories",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-test-scenarios"
     ]
   },
   "legacy_paths": {
