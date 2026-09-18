@@ -9,20 +9,37 @@
       "/home/alexandre/.hermes/shared/agent-skills/dotnet-backend-verification",
       "/home/alexandre/.hermes/shared/agent-skills/qa-environment-validation",
       "/home/alexandre/.hermes/shared/agent-skills/browser-functional-testing",
-      "/home/alexandre/.hermes/shared/agent-skills/application-auth-review"
+      "/home/alexandre/.hermes/shared/agent-skills/application-auth-review",
+      "/home/alexandre/.hermes/shared/agent-skills/verification-planning",
+      "/home/alexandre/.hermes/shared/agent-skills/loop-engineering",
+      "/home/alexandre/.hermes/shared/agent-skills/security-audit",
+      "/home/alexandre/.hermes/shared/agent-skills/codemap"
     ],
     "dev-database": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
       "/home/alexandre/.hermes/shared/agent-skills/dev-database",
       "/home/alexandre/.hermes/shared/agent-skills/dotnet-postgres-integration-qa",
       "/home/alexandre/.hermes/shared/agent-skills/dotnet-database-runtime-validation",
-      "/home/alexandre/.hermes/shared/agent-skills/qa-environment-validation"
+      "/home/alexandre/.hermes/shared/agent-skills/qa-environment-validation",
+      "/home/alexandre/.hermes/shared/agent-skills/verification-planning",
+      "/home/alexandre/.hermes/shared/agent-skills/loop-engineering",
+      "/home/alexandre/.hermes/shared/agent-skills/security-audit",
+      "/home/alexandre/.hermes/shared/agent-skills/codemap"
     ],
     "devops": [
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
+      "/home/alexandre/.hermes/shared/agent-skills/verification-planning",
+      "/home/alexandre/.hermes/shared/agent-skills/loop-engineering",
+      "/home/alexandre/.hermes/shared/agent-skills/security-audit",
+      "/home/alexandre/.hermes/shared/agent-skills/codemap"
     ],
     "github-profile": [
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
+      "/home/alexandre/.hermes/shared/agent-skills/verification-planning",
+      "/home/alexandre/.hermes/shared/agent-skills/loop-engineering",
+      "/home/alexandre/.hermes/shared/agent-skills/reflect",
+      "/home/alexandre/.hermes/shared/agent-skills/security-audit",
+      "/home/alexandre/.hermes/shared/agent-skills/codemap"
     ],
     "dev-backend": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -30,12 +47,20 @@
       "/home/alexandre/.hermes/shared/agent-skills/dotnet-postgres-integration-qa",
       "/home/alexandre/.hermes/shared/agent-skills/dotnet-database-runtime-validation",
       "/home/alexandre/.hermes/shared/agent-skills/dotnet-backend-verification",
-      "/home/alexandre/.hermes/shared/agent-skills/application-auth-review"
+      "/home/alexandre/.hermes/shared/agent-skills/application-auth-review",
+      "/home/alexandre/.hermes/shared/agent-skills/verification-planning",
+      "/home/alexandre/.hermes/shared/agent-skills/loop-engineering",
+      "/home/alexandre/.hermes/shared/agent-skills/security-audit",
+      "/home/alexandre/.hermes/shared/agent-skills/codemap"
     ],
     "dev-frontend": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
       "/home/alexandre/.hermes/shared/agent-skills/angular-testbed-testing",
-      "/home/alexandre/.hermes/shared/agent-skills/browser-functional-testing"
+      "/home/alexandre/.hermes/shared/agent-skills/browser-functional-testing",
+      "/home/alexandre/.hermes/shared/agent-skills/verification-planning",
+      "/home/alexandre/.hermes/shared/agent-skills/loop-engineering",
+      "/home/alexandre/.hermes/shared/agent-skills/security-audit",
+      "/home/alexandre/.hermes/shared/agent-skills/codemap"
     ],
     "code-reviewer": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -43,10 +68,19 @@
       "/home/alexandre/.hermes/shared/agent-skills/angular-testbed-testing",
       "/home/alexandre/.hermes/shared/agent-skills/dotnet-backend-verification",
       "/home/alexandre/.hermes/shared/agent-skills/application-auth-review",
-      "/home/alexandre/.hermes/shared/agent-skills/frontend-delivery-code-review"
+      "/home/alexandre/.hermes/shared/agent-skills/frontend-delivery-code-review",
+      "/home/alexandre/.hermes/shared/agent-skills/verification-planning",
+      "/home/alexandre/.hermes/shared/agent-skills/loop-engineering",
+      "/home/alexandre/.hermes/shared/agent-skills/security-audit",
+      "/home/alexandre/.hermes/shared/agent-skills/codemap"
     ],
     "orquestrador": [
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
+      "/home/alexandre/.hermes/shared/agent-skills/verification-planning",
+      "/home/alexandre/.hermes/shared/agent-skills/loop-engineering",
+      "/home/alexandre/.hermes/shared/agent-skills/reflect",
+      "/home/alexandre/.hermes/shared/agent-skills/security-audit",
+      "/home/alexandre/.hermes/shared/agent-skills/codemap"
     ]
   },
   "legacy_paths": {
