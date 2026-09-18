@@ -16,7 +16,12 @@
       "/home/alexandre/.hermes/shared/agent-skills/codemap",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-webapp-testing",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-skill-eval",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-frontend-design"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-frontend-design",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-verification-gate",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-systematic-debugging",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-tdd",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-incident-response",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-deploy-checklist"
     ],
     "dev-database": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -27,7 +32,11 @@
       "/home/alexandre/.hermes/shared/agent-skills/verification-planning",
       "/home/alexandre/.hermes/shared/agent-skills/loop-engineering",
       "/home/alexandre/.hermes/shared/agent-skills/security-audit",
-      "/home/alexandre/.hermes/shared/agent-skills/codemap"
+      "/home/alexandre/.hermes/shared/agent-skills/codemap",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-verification-gate",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-systematic-debugging",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-tdd",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-architecture-review"
     ],
     "devops": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -35,7 +44,11 @@
       "/home/alexandre/.hermes/shared/agent-skills/loop-engineering",
       "/home/alexandre/.hermes/shared/agent-skills/security-audit",
       "/home/alexandre/.hermes/shared/agent-skills/codemap",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-mcp-builder"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-mcp-builder",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-verification-gate",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-systematic-debugging",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-incident-response",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-deploy-checklist"
     ],
     "github-profile": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -43,7 +56,11 @@
       "/home/alexandre/.hermes/shared/agent-skills/loop-engineering",
       "/home/alexandre/.hermes/shared/agent-skills/reflect",
       "/home/alexandre/.hermes/shared/agent-skills/security-audit",
-      "/home/alexandre/.hermes/shared/agent-skills/codemap"
+      "/home/alexandre/.hermes/shared/agent-skills/codemap",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-verification-gate",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-systematic-debugging",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-incident-response",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-deploy-checklist"
     ],
     "dev-backend": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -56,7 +73,12 @@
       "/home/alexandre/.hermes/shared/agent-skills/loop-engineering",
       "/home/alexandre/.hermes/shared/agent-skills/security-audit",
       "/home/alexandre/.hermes/shared/agent-skills/codemap",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-mcp-builder"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-mcp-builder",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-verification-gate",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-systematic-debugging",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-tdd",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-architecture-review",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-deploy-checklist"
     ],
     "dev-frontend": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -67,7 +89,11 @@
       "/home/alexandre/.hermes/shared/agent-skills/security-audit",
       "/home/alexandre/.hermes/shared/agent-skills/codemap",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-webapp-testing",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-frontend-design"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-frontend-design",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-verification-gate",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-systematic-debugging",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-tdd",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-architecture-review"
     ],
     "code-reviewer": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -83,7 +109,11 @@
       "/home/alexandre/.hermes/shared/agent-skills/hermes-webapp-testing",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-mcp-builder",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-skill-eval",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-frontend-design"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-frontend-design",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-verification-gate",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-systematic-debugging",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-tdd",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-architecture-review"
     ],
     "orquestrador": [
       "/home/alexandre/.hermes/shared/agent-skills/hermes-team-handoff",
@@ -93,7 +123,12 @@
       "/home/alexandre/.hermes/shared/agent-skills/security-audit",
       "/home/alexandre/.hermes/shared/agent-skills/codemap",
       "/home/alexandre/.hermes/shared/agent-skills/hermes-mcp-builder",
-      "/home/alexandre/.hermes/shared/agent-skills/hermes-skill-eval"
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-skill-eval",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-verification-gate",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-systematic-debugging",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-architecture-review",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-incident-response",
+      "/home/alexandre/.hermes/shared/agent-skills/hermes-deploy-checklist"
     ]
   },
   "legacy_paths": {
